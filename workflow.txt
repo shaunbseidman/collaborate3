@@ -3,7 +3,7 @@
 3. Chance cloned down the repo
 4. Shaun generates first task and performs it.
   1. Remove a file other than index.html
-5. Chances pushes to GitHub, Shaun pulls it down.
-6. Shaun generates second task and performs it and pushes changes to GitHub.
-
-7. Chance pulls it down, repeat steps 4-6 four more times.
+5. Shaun pushes to GitHub, Chance pulls it down.
+6. Chance generates second task and performs it and pushes changes to GitHub.
+  1. Edited 5 css properties.
+7. Shaun pulls it down, repeat steps 4-6 four more times.
