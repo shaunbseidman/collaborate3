@@ -10,3 +10,13 @@ function getTotal(poop) {
 }
 
 getTotal(numbers)
+
+var arrayOfObjects = [
+  {
+    name: Chance,
+    age: 47
+  }, {
+    name: Shaun,
+    age: 79
+  }
+]
