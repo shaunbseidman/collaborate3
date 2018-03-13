@@ -2,9 +2,10 @@
 2. Shaun initialized the empty repo, added the the workflow.txt
 3. Chance cloned down the repo
 4. Shaun generates first task and performs it.
-  1. Remove a file other than index.html
-  2. created new html and linked it to the index.
+    1. Remove a file other than index.html
+    2. created new html and linked it to the index.
 5. Shaun pushes to GitHub, Chance pulls it down.
 6. Chance generates second task and performs it and pushes changes to GitHub.
-  1. Edited 5 css properties.
+    1. Edited 5 css properties.
+    2. Created new HTML file (newPage.html) and linked to it from index.html
 7. Shaun pulls it down, repeat steps 4-6 four more times.
